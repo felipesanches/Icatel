@@ -1,4 +1,4 @@
-update=Qui 25 Dez 2014 22:00:49 BRST
+update=Qua 31 Dez 2014 15:52:36 BRST
 version=1
 last_client=kicad
 [cvpcb]
@@ -64,3 +64,4 @@ LibName30=valves
 LibName31=hm6264blp
 LibName32=80c31
 LibName33=73k222al
+LibName34=tlc254
