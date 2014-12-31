@@ -1,4 +1,4 @@
-update=Qua 31 Dez 2014 15:52:36 BRST
+update=Qua 31 Dez 2014 16:46:00 BRST
 version=1
 last_client=kicad
 [cvpcb]
@@ -65,3 +65,5 @@ LibName31=hm6264blp
 LibName32=80c31
 LibName33=73k222al
 LibName34=tlc254
+LibName35=TEA1063
+LibName36=x24c04
