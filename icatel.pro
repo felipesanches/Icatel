@@ -1,4 +1,4 @@
-update=Qua 31 Dez 2014 16:46:00 BRST
+update=Qua 31 Dez 2014 19:41:15 BRST
 version=1
 last_client=kicad
 [cvpcb]
@@ -67,3 +67,16 @@ LibName33=73k222al
 LibName34=tlc254
 LibName35=TEA1063
 LibName36=x24c04
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=doc/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+RptD_X=0
+RptD_Y=100
+RptLab=1
+LabSize=60
